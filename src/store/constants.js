@@ -1,0 +1,13 @@
+export const userConstants = {
+    LOGIN_SUCCESS: 'USERS_LOGIN_SUCCESS',
+    LOGIN_FAILURE: 'USERS_LOGIN_FAILURE',
+    
+    LOGOUT: 'USERS_LOGOUT',
+};
+
+export const hatesConstants = {
+    GET_SUCCESS: 'HATES_GET_SUCCESS',
+    GET_FAILURE: 'HATES_GET_FAILURE',
+
+    SET_SUCCESS: 'HATES_SET_SUCCESS',
+};
